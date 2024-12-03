@@ -1,0 +1,26 @@
+# Compiled object files
+*.o
+
+# Compiled binary files
+*.out
+*.exe
+
+# Debug files
+*.d
+*.gch
+
+# Dependency files
+*.dSYM/
+
+# Temporary or backup files
+*.tmp
+*.swp
+*.bak
+
+# Build directories
+/build/
+/bin/
+/obj/
+
+# Logs and reports
+*.log
